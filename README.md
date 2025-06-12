@@ -16,10 +16,10 @@ It includes:
 
 ## Modules Structure (Planned)
   
-  vpc/ – custom networking setup
-  iam/ – credentials and roles
-  ec2/ – small cluster setup (2-3 nodes)
-  k8s/ – (coming soon) bootstrap Kubernetes using remote-exec or EKS
+ - vpc/ – custom networking setup
+ - iam/ – credentials and roles
+ - ec2/ – small cluster setup (2-3 nodes)
+ - k8s/ – (coming soon) bootstrap Kubernetes using remote-exec or EKS
 
 ## Getting Started
 
