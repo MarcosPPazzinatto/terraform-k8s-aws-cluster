@@ -23,14 +23,20 @@ It includes:
 
 ## Getting Started
 
-```bash
 # Initialize Terraform
+```
 terraform init
+```
 
 # Preview the resources
+```
 terraform plan
+```
 
 # Apply and create the infrastructure
+```
 terraform apply
+```
 
-
+## License  
+This project is licensed under the MIT License.
